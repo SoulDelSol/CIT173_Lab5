@@ -1,0 +1,3 @@
+   46  echo "1" > /sys/class/leds/input1\:\:capslock/brightness
+   47  echo "0" > /sys/class/leds/input1\:\:capslock/brightness
+   48  history 3 > /home/markguerrero/CIT173_Lab5/turn-on-capslock.txt

@@ -1,0 +1,12 @@
+Filesystem              1K-blocks    Used Available Use% Mounted on
+devtmpfs                   994376       0    994376   0% /dev
+tmpfs                     1008136   32616    975520   4% /dev/shm
+tmpfs                     1008136    1568   1006568   1% /run
+tmpfs                     1008136       0   1008136   0% /sys/fs/cgroup
+/dev/mapper/fedora-root  29743076 6271944  21937180  23% /
+tmpfs                     1008136     128   1008008   1% /tmp
+/dev/sdb2                  371563    2210    345649   1% /mnt/backup
+/dev/sdb1                  121843    2274    110467   3% /mnt/data
+/dev/sda1                  999320  148852    781656  16% /boot
+tmpfs                      201624    5804    195820   3% /run/user/1000
+/dev/sr0                  1885468 1885468         0 100% /run/media/markguerrero/Fedora-WS-Live-29-1-2
